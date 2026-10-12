@@ -1,4 +1,4 @@
-# Generador de contraseñas 🔐
+# Generador de contraseñas
 
 Página web hecha con **Flask** que genera contraseñas seguras y aleatorias.
 
